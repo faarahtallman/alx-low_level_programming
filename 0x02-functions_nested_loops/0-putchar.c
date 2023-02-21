@@ -2,9 +2,8 @@
 /**
  * main - print _putchar
  * is written by bwave
- * Return: 0;
+ * Return: 0  (SUCCESS);
  */
-
 int main(void)
 {
 	_putchar('_');
